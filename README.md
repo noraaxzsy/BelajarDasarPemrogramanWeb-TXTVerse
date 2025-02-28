@@ -10,4 +10,6 @@ Sebagai contoh: Header berisi judul dan navigation.<br>
 <br>
 ✅ Menampilkan sebuah gambar di dalam elemen aside, gambar perlu dibuat menggunakan elemen img.<br>
 <br>
-✅ Menyusun layout dengan menggunakan teknik flexbox, bukan float.
+✅ Menyusun layout dengan menggunakan teknik flexbox, bukan float.<br>
+<br>
+Live Website:  https://noraaxzsy.github.io/BelajarDasarPemrogramanWeb-TXTVerse/
